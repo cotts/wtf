@@ -1,0 +1,22 @@
+{
+  "name": "wtf",
+  "version": "1.0.0",
+  "description": "World Texting Foundation Acronyms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cotts/wtf.git"
+  },
+  "keywords": [
+    "acronyms"
+  ],
+  "author": "Thadeu Cotts",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cotts/wtf/issues"
+  },
+  "homepage": "https://github.com/cotts/wtf#readme"
+}
