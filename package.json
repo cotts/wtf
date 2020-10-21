@@ -18,5 +18,14 @@
   "bugs": {
     "url": "https://github.com/cotts/wtf/issues"
   },
-  "homepage": "https://github.com/cotts/wtf#readme"
+  "homepage": "https://github.com/cotts/wtf#readme",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "express": "^4.17.1",
+    "express-async-error": "0.0.2",
+    "helmet": "^4.1.1",
+    "mongoose": "^5.10.9",
+    "morgan": "^1.10.0",
+    "winston": "^3.3.3"
+  }
 }
